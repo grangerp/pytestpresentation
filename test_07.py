@@ -1,0 +1,15 @@
+"""
+Fixture autouse
+alaways used with the scope
+see conftest.py
+"""
+
+
+def test_1():
+    print("test 1")
+    assert False
+
+
+def test_2():
+    print("test 2")
+    assert False
