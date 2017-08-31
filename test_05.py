@@ -3,6 +3,7 @@ Fixtures
 See conftest.py
 Test with different scope
 See object id
+pytest test_05.py
 """
 
 

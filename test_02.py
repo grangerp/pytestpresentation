@@ -1,5 +1,6 @@
 """
 Assert exceptions
+pytest test_01.py
 """
 import pytest
 

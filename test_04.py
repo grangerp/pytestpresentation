@@ -1,6 +1,6 @@
 """
 Parametrizing tests
-run with -v
+pytest test_04.py -v
 """
 import pytest
 from decimal import Decimal

@@ -1,5 +1,6 @@
 """
 assert introspection
+pytest test_03.py
 """
 
 

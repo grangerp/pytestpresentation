@@ -2,6 +2,7 @@
 Stats of running tests
 use --hypothesis-show-statistics
 Param control
+pytest test_13.py --hypothesis-show-statistics
 """
 from hypothesis import strategies as st
 from hypothesis import given, event

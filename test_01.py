@@ -1,5 +1,6 @@
 """
 Basic function, no need to include pytest
+pytest test_o1.py
 """
 
 

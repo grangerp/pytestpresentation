@@ -3,7 +3,7 @@ What is next
 Mutation testing: https://cosmic-ray.readthedocs.io/en/latest/
     http://schinckel.net/tags/mutation-testing/
 
-Run with mut.py --target calculator --unit-test test_15 -m
+mut.py --target calculator --unit-test test_15 -m
 """
 from unittest import TestCase
 

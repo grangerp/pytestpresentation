@@ -2,6 +2,7 @@
 Fixture autouse
 alaways used with the scope
 see conftest.py
+pytest test_07.py -v
 """
 
 

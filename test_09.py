@@ -1,6 +1,7 @@
 """
 betamax let you record and replay requests
 Turn network on and off
+pytest test_09.py
 """
 from unittest.mock import patch
 

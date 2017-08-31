@@ -2,6 +2,7 @@
 Fixtures with params
 See conftest.py
 Run 4 tests
+pytest test_06.py -v
 """
 
 

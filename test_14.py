@@ -1,6 +1,7 @@
 """
 WebTest test your stack wsgi
 Can manipulate forms
+HYPOTHESIS_VERBOSITY_LEVEL=verbose pytest test_14.py
 """
 from hypothesis import strategies as st
 from hypothesis import given

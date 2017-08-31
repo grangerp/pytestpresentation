@@ -1,0 +1,7 @@
+betamax
+httpretty
+hypothesis
+mutpy
+pytest
+requests
+webtest

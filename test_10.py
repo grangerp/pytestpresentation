@@ -1,6 +1,7 @@
 """
 HypothesisWorks: property based testing
 Run with HYPOTHESIS_VERBOSITY_LEVEL=verbose for verbosity
+HYPOTHESIS_VERBOSITY_LEVEL=verbose pytest test_10.py
 """
 from hypothesis import given
 from hypothesis.strategies import floats
