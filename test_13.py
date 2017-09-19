@@ -10,5 +10,5 @@ from hypothesis import given, event
 
 @given(st.integers().filter(lambda x: x % 2 == 0))
 def test_is_even(i):
-    event("i mod 3 = %d" % (i % 3,))
+    event(f'i mod 3 = {i % 3}')
     assert i % 2 == 0

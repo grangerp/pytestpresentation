@@ -25,5 +25,5 @@ def test_instagram_oembed():
 
 
 def instagram_oembed(post):
-    url = 'http://api.instagram.com/oembed/?url={}'.format(post)
+    url = f'http://api.instagram.com/oembed/?url={post}'
     return requests.get(url)

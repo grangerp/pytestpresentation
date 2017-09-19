@@ -13,5 +13,5 @@ def test_shuffle_is_noop(ls, r):
     """ shuffle modify ls2 """
     ls2 = list(ls)
     r.shuffle(ls2)
-    note("Shuffle: %r" % (ls2))
+    note(f'Note: Shuffle: {ls2}, r: {r}')
     assert ls == ls2
