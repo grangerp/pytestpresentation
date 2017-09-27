@@ -19,7 +19,7 @@ def test_mult():
 
 
 """ 100% coverage
-What is i change mult
+What if I change mult
 
 def mult(x, y):
     return x * y

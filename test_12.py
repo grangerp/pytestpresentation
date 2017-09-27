@@ -2,6 +2,7 @@
 Test more complexe types
 https://hypothesis.readthedocs.io/en/master/data.html
 https://hypothesis.readthedocs.io/en/master/django.html
+Test with note
 HYPOTHESIS_VERBOSITY_LEVEL=verbose pytest test_12.py
 """
 from hypothesis import strategies as st
